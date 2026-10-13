@@ -21,7 +21,10 @@
         "https://abs.twimg.com/*",
         "https://api.twitter.com/*",
         "https://tweetdeck.com/",
-        "https://oldtd.org/*"
+        "https://oldtd.org/*",
+        "https://tweetdeck.dimden.dev/*",
+        "https://tenor.googleapis.com/*",
+        "https://api.tenor.com/*"
     ],
     "web_accessible_resources": [
         {
